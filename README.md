@@ -1,6 +1,6 @@
 # CTL_Final_Project
 Final Project for Sarah Howie
-*Coding the Law Fall 2020*
+  *Coding the Law Fall 2020*
 
 For my final prject, I joined the Suffolk LITLab's Docassembly Line project to develop a Motion to Impound form to be used.
 
