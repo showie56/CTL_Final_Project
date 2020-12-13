@@ -5,7 +5,7 @@ Final Project for Sarah Howie.
 For my final project, I joined the Suffolk LITLab's Document Assembly Line project to develop a Motion to Impound form to be used.
 
 ## Links
-To access the Github repo for my final project, [click here!](https://github.com/SuffolkLITLab/docassemble-MtntoImpound)
+To access the Github repo for my final project, [click here!](https://github.com/SuffolkLITLab/docassemble-MtntoImpound)   
 To watch the video of how the interview works, [click here!](https://share.vidyard.com/watch/KeQn3t3H7EXdmJxoXcR4Va?)
 
 
