@@ -35,12 +35,3 @@ Now that the interview is viable and produces a form that can be filed with the 
 Overall, this has been an interesting learning experience. I am proud that I produced something that potentially could change someone's life by providing them the access they need to this. A special thanks to the Suffolk LITLab, A2j, Professor Colarusso, and Michelle. Because of them, Massachusetts is one step closer to having a more accessible, helpful legal system that will serve the greater population.
 
 
-<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
-<img
-  style="width: 100%; margin: auto; display: block;"
-  class="vidyard-player-embed"
-  src="https://play.vidyard.com/SSgzoD38KQN4dZTEjN5z5A.jpg"
-  data-uuid="SSgzoD38KQN4dZTEjN5z5A"
-  data-v="4"
-  data-type="inline"
-/>
