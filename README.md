@@ -5,7 +5,8 @@ Final Project for Sarah Howie.
 For my final project, I joined the Suffolk LITLab's Document Assembly Line project to develop a Motion to Impound form to be used.
 
 ## Links
-To access the Github repo for my final project, [click here!](https://github.com/SuffolkLITLab/docassemble-MtntoImpound)   
+To access the Github repo for my final project, [click here!](https://github.com/SuffolkLITLab/docassemble-MtntoImpound)
+To watch The Short Story of my journey, [click here!](https://share.vidyard.com/watch/bQTiFtxG3MfMRtBBeYJ2t4?)
 To watch the video of how the interview works, [click here!](https://share.vidyard.com/watch/KeQn3t3H7EXdmJxoXcR4Va?)
 
 
@@ -34,6 +35,6 @@ Now that the interview is viable and produces a form that can be filed with the 
 * Add a cover letter to the judge
 * Add a way to look up the correct address for their chosen county court and judge
 
-Overall, this has been an interesting learning experience. I am proud that I produced something that potentially could change someone's life by providing them the access they need to this. A special thanks to the Suffolk LITLab, A2j, Professor Colarusso, and Michelle. Because of them, Massachusetts is one step closer to having a more accessible, helpful legal system that will serve the greater population.
+Overall, this has been an interesting learning experience. I am proud that I produced something that potentially could change someone's life by providing them the access they need to this. A special thanks to the Suffolk LITLab, A2J, Professor Colarusso, and Michelle. Because of them, Massachusetts is one step closer to having a more accessible, helpful legal system that will serve the greater population.
 
 
