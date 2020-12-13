@@ -6,6 +6,7 @@ For my final project, I joined the Suffolk LITLab's Document Assembly Line proje
 
 ## Links
 To access the Github repo for my final project, [click here!](https://github.com/SuffolkLITLab/docassemble-MtntoImpound)
+[video](https://share.vidyard.com/watch/SSgzoD38KQN4dZTEjN5z5A?)
 
 ## The Long Story
 Prior to law school, I worked as a paralegal. Most of the firms I worked with had case management software. One firm in particular had Time Matters, and tasked me with making it work as efficiently as possible. While I could manipulate most of the screens, the main page for each case could only be manipulated by coders. I remember being frustrated that we had to outsource that part of the project to an outside company. 
